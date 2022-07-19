@@ -1,0 +1,12 @@
+﻿C:\Users\afced\source\repos\Services\Services.api.Users\Controllers\WeatherForecastController.cs
+C:\Users\afced\source\repos\Services\Services.api.Users\Model\Rol.cs
+C:\Users\afced\source\repos\Services\Services.api.Users\Model\User.cs
+C:\Users\afced\source\repos\Services\Services.api.Users\Program.cs
+C:\Users\afced\source\repos\Services\Services.api.Users\WeatherForecast.cs
+C:\Users\afced\source\repos\Services\Services.api.Users\obj\Debug\net6.0\Services.api.Users.GlobalUsings.g.cs
+C:\Users\afced\source\repos\Services\Services.api.Users\obj\Debug\net6.0\.NETCoreApp,Version=v6.0.AssemblyAttributes.cs
+C:\Users\afced\source\repos\Services\Services.api.Users\obj\Debug\net6.0\Services.api.Users.AssemblyInfo.cs
+C:\Users\afced\source\repos\Services\Services.api.Users\obj\Debug\net6.0\Services.api.Users.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\afced\source\repos\Services\Services.api.Users\appsettings.Development.json
+C:\Users\afced\source\repos\Services\Services.api.Users\appsettings.json
+C:\Users\afced\source\repos\Services\Services.api.Users\Properties\launchSettings.json

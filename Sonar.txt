@@ -1,0 +1,3 @@
+dotnet sonarscanner begin /k:"PrincipalProject" /d:sonar.host.url="http://localhost:9000"  /d:sonar.login="sqp_2b47f4011f8dc4d6e6857bed646c5684bf1777bc"
+dotnet build
+dotnet sonarscanner end /d:sonar.login="sqp_2b47f4011f8dc4d6e6857bed646c5684bf1777bc"
